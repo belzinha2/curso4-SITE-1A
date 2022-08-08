@@ -1,0 +1,19 @@
+SLW Music 
+
+SLW Music foi criado com o intuito de facilitar suas buscas de suas musicas favoritas e entre outras. O site garante
+proporcionar rapidez e praticidade além de tudo gratuitamente sem nenhuma mensalidade como outros sites e aplicativos,
+e temos as opções de playlist prontas para todos os gostos e ocasiões musicais. Porém sendo um site não temos a 
+disponibilidade de navegação off-line apenas irá acessa-lo conectado em uma rede.
+
+Algumas funções que o site oferece:
+- Navegação gratuitamente;
+- Sem anúncios;
+- Identificação de canções que está tocando no momento;
+- Crie sua playlist própria para suas músicas favoritas;
+- Todas as músicas com letras;
+- Possibilidade de compartilhamento de suas músicas;
+- Ouça as músicas por gẽnero;
+- Disponibilidade de podcasts e radios;
+- Entre outras.
+
+Nosso site garante proporcionar uma experiencia unica.
