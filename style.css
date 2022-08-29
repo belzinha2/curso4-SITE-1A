@@ -1,4 +1,11 @@
-p{
-    text-align: center;
+body{
+    
     background: #c7c4c402;
 }
+p {text-align: center;
+  
+ }
+ #lema{
+     font-size: 25px;
+     color:aliceblue
+ }
