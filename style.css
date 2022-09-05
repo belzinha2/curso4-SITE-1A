@@ -1,10 +1,12 @@
 body{
     
-    background: #f3cfcf02;
+    background: rgb(212, 107, 93);
 }
-p {text-align: center;
+p {
+    text-align: center;
   
  }
+ 
  #lema{
      font-size: 25px;
      color:aliceblue
