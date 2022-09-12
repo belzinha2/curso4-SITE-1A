@@ -2,6 +2,9 @@ body{
     
     background: rgb(255, 154, 141);
 }
+#topo {
+    width: 100%;
+}
 p {
     text-align: center;
   
