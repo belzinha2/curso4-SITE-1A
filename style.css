@@ -2,10 +2,12 @@ body{
     
     background: rgb(255, 154, 141);
 }
+
 #topo {
     width: 100%;
     height: 200px;
 }
+
 p {
     text-align: center;
   
@@ -15,6 +17,7 @@ p {
      font-size: 25px;
      color:aliceblue
  }
+
  .itens {
      font-style: italic
  }
