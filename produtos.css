@@ -8,7 +8,7 @@ h1 {
     width: 250px;
 }
 nav {
-    display: inline;
+    display: inline-block;
 }
 
 nav li{
