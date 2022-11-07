@@ -1,6 +1,11 @@
 header {
     background: rgb(3, 0, 0);
 }
+ . caixa{
+    position: relative;
+    width: 940px;
+    margin: 0px;
+ }
 h1 {
     display: inline;
 }
