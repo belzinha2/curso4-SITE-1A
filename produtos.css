@@ -33,6 +33,7 @@ nav a {
 .produtos li{
 
     display:inline-block;
+    text-align: center;
 }
 .item{
     width: 300px;
