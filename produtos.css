@@ -34,6 +34,9 @@ nav a {
 
     display:inline-block;
     text-align: center;
+    border-color:grey ;
+    border width : 5px; ;
+    border-style: solid ;
 }
 .item{
     width: 300px;
